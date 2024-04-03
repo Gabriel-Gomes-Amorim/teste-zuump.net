@@ -11,3 +11,7 @@
 
 - Capacidade de lidar com projetos legados
 - Capacidade de corrigir pontos do código que estejam fora do padrão do framework ou tecnologias utilizadas
+
+### Base de dados
+
+A base de dados se encontra em **.mysql/db**
