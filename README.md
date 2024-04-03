@@ -16,6 +16,11 @@
 
 A base de dados se encontra em **.mysql/db**
 
+### Requisitos para fazer o projeto funcionar.
+- Ter instalado na máquina o MySQL e deixá-lo ativo rodando na porta 3306.
+- Ou se não tiver, conseguir a imagem do MySQL ou montar um arquivo .yml para o Docker Compose.
+- Prestar atenção que existe um arquivo .env tanto na raiz (/), quanto na pasta /server. Irei passar esses arquivos manualmente. E então é só mudar os valores das constantes DB_USERNAME e DB_PASSWORD.
+
 ### Observações adicionais
 
 Não precisa usar Docker. Mas se usar, também contará como pontos extras.
