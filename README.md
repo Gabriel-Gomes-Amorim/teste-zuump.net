@@ -15,3 +15,7 @@
 ### Base de dados
 
 A base de dados se encontra em **.mysql/db**
+
+### Observações adicionais
+
+Não precisa usar Docker. Mas se usar, também contará como pontos extras.
