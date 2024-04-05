@@ -13,7 +13,7 @@ const Ropes = sequelize.define(
       type: Sequelize.INTEGER,
     },
     ropes: {
-      type: Sequelize.JSON,
+      type: Sequelize.STRING,
       allowNull: false,
     },
   },
